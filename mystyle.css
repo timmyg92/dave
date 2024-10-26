@@ -1,0 +1,17 @@
+.first{
+    color: blue;
+    font-style: italic;
+}
+
+
+.second{
+    color: darkorange;
+    font-style: italic;
+}
+
+
+#id1{
+    color: blueviolet;
+    font-size: smaller;
+    font-weight: 100;
+}

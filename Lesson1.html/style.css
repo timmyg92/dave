@@ -1,11 +1,26 @@
-p {
-    color: blue;
-}
-
-h1 {
-    color: aquamarine;
+h1{
+color: darkblue;
+font-family: sans-serif;
+font-style: italic;
+font-weight: 600;
 }
 
 h2 {
-    color:;
+color: darkmagenta;
+font-weight: 800;
+font-style: italic;
+}
+
+.first{
+    font-weight: 800;
+    font-style: oblique;
+}
+
+
+#id3{
+    color: chartreuse;
+}
+
+.second{
+    color: blueviolet;
 }
