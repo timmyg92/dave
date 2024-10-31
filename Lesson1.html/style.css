@@ -24,3 +24,39 @@ font-style: italic;
 .second{
     color: blueviolet;
 }
+
+
+.Segun{
+    width: 100px;
+    height: 50px;
+    border: 10px solid blueviolet;
+    padding: 10px 10px 10px 10px;
+    margin: 10px;
+
+}
+
+
+.container{
+    display: grid;
+    grid-template-columns: 2fr 2fr 1fr;
+}
+
+
+#bucket{
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* border: solid red; */
+    /* justify-content: space-around; */
+    /* align-items: ; */
+}
+
+
+#bucket{
+display: flex;
+flex-direction:;
+border: dashed goldenrod;
+justify-content: space-between;
+align-items: flex-end;
+
+height: 200px;
+}
