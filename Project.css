@@ -1,0 +1,325 @@
+.white{
+
+}
+
+#gray{
+background-color: gray;
+padding: 20px;
+
+
+
+}
+
+.white2{
+    background-color: white;
+    display: flex;
+    gap: 0.002em;
+}
+
+
+#hello{
+   margin-right: 17em;
+}
+
+.about{
+    margin-left: 4em;
+}
+
+
+.socials{
+margin-right: 10px;
+}
+
+
+.blue{
+
+    background-color: blue;
+    height: 40em;
+    display: block;
+    gap: 4em;
+
+}
+
+
+
+
+.MyLogo{
+    color: blue;
+    font-size: 15px;
+    font-weight: 60;
+    margin: 30px;
+}
+
+
+.first{
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 1000;
+    color: black;
+    margin-left: 70px;
+    
+}
+
+
+.Intro{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 1px;
+}
+
+.Connect{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+    margin-left: 70px;
+}
+
+#white3{
+    background-color: white;
+}
+
+.prog{
+    text-emphasis-color: blue;
+    color: blue;
+    margin-left: 30px;
+
+}
+
+/* .logos{ */
+/* height: 1px; */
+/* width: 1px; */
+
+
+#linkedin{
+    height: 40px;
+    width: 40px;
+    margin-left: 70px;
+}
+
+.span-div{
+    display: flex;
+    gap: 50px;
+}
+
+#twitter{
+    height: 40px;
+    width: 40px;
+    
+}
+
+#html{
+    color: blue;
+}
+
+
+.whitecard{
+    background-color: white;
+    padding-left: 10px;
+    height: 20em;
+    width: 70em;
+    margin: 40px;
+    display: flex;
+    gap: 30px;
+}
+
+
+/* .whitecard{
+    background-color: white;
+    height: 20em;
+    height: 20em;
+    width: 70em;
+    margin: 40px;
+    display: flex;
+    gap: 50px;
+} */
+
+#javascript{
+    color: blue;
+}
+
+
+#css{
+color: blue;
+}
+
+#Ruby{
+    color: blue;
+}
+
+.python{
+    color: blue;
+}
+
+
+#see{
+    color: blue;
+}
+
+.Messi{
+    height: 30px;
+    width: 20px;
+}
+
+
+
+.nature1{
+    margin-top: 10px;
+    height: 15em;
+    width: 25em;
+}
+
+.nat2{
+    margin-top: 1em;
+    
+}
+
+#nat2{
+    border: 5em;
+    
+    background-color:gray;
+    padding: 0.6em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    
+}
+
+.nature3{
+    margin-right: 1em;
+    margin-top: 1em;
+    height: 15em;
+    width: 35em;
+}
+
+.lady{
+    height: 250px;
+    margin-top: 1em;
+}
+
+#eagle{
+    border: 5em;
+    background-color: gray;
+    margin: 1em;
+    padding: 0.1em;
+    
+}
+
+.do{
+    height: 17em;
+    width: 20em;
+    margin: 0.5em;
+}
+
+#list{
+    border: 5em;
+    background-color: gray;
+    margin: 1em;
+
+}
+
+.tram{
+    height: 30em;
+}
+
+.sisi{
+    height: 15em;
+    width: 30em;
+}
+
+.parlour{
+    height: 10px;
+    width: 10px;
+}
+
+.tonic{
+    margin-left: 2em;
+}
+
+
+.daily{
+    font-size: 30em;
+}
+
+.exp{
+    margin-right: 10em;
+}
+
+#con{
+    color: white;
+    margin-left: 17em;
+    margin-top: 5em;
+    font-size: x-large;
+    font-weight: 100em;
+
+}
+
+#if{
+    color: white;
+    margin-top: 2em;
+    margin-left: 5em;
+}
+
+
+/* .laslas{
+    margin-left: 150em;
+} */
+
+.this{
+    margin: 100px;
+    display: block;
+    
+}
+
+
+#fill{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    width: 40em;
+    margin-left: 10em;
+
+}
+
+
+.segun{
+    height: 4em;
+    font-size: larger;
+    
+}
+
+.email{
+    height: 4em;
+    font-size: larger;
+}
+
+
+.write{
+    height: 15em;
+    font-size: larger;
+}
+
+
+.get{
+    height: 3em;
+    width: 12em;
+}
+
+.Connect2{
+    color: blue;
+}
+
+
+.top{
+    display: grid;
+    grid-template-columns: 70% 10% 10% 10%;
+}
+
+
+.log{
+    color: blue;
+    margin-left: 1em;
+}
+
+.x{
+    height: 2em;
+}
