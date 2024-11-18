@@ -276,13 +276,17 @@ color: blue;
     flex-direction: column;
     gap: 1em;
     width: 40em;
-    margin-left: 10em;
+    margin-left: 25em;
+    height: 60px;
 
 }
 
 
+
+
+
 .segun{
-    height: 4em;
+    height: 60em;
     font-size: larger;
     
 }
